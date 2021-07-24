@@ -1,2 +1,7 @@
 Stacking Mod
-I cant add the source code
+1.17.10
+
+Features:
+Insta Eat 
+Shulker nesting
+Items can stack(doesnt include netherite and a few items)
